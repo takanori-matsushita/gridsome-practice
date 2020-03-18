@@ -1,0 +1,9 @@
+.DS_Store
+.db_data/
+.env
+!.env.sample
+gridsome/.cache
+gridsome/node_modules
+gridsome/src/.temp
+gridsome/.env
+!gridsome/.env.sample

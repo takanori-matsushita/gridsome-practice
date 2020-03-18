@@ -1,0 +1,19 @@
+{
+  "name": "gridsome",
+  "private": true,
+  "scripts": {
+    "build": "gridsome build",
+    "develop": "gridsome develop",
+    "explore": "gridsome explore"
+  },
+  "dependencies": {
+    "@gridsome/source-wordpress": "^0.4.0",
+    "gridsome": "^0.7.0",
+    "prismjs": "^1.19.0",
+    "sharp": "^0.25.1",
+    "vuetify": "^2.2.17"
+  },
+  "devDependencies": {
+    "webpack-node-externals": "^1.7.2"
+  }
+}
